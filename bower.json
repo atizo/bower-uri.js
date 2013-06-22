@@ -1,0 +1,5 @@
+{
+  "name": "urijs-base",
+  "version": "1.10.2",
+  "main": "./uri.js"
+}
